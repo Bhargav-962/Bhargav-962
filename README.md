@@ -2,7 +2,9 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently persuing CSE
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me. email:- bhargav.n962@gmail.com
+- 📫 How to reach me:-  
+[Email](bhargav.n962@gmail.com) |
+[Linkedin](https://www.linkedin.com/in/bhargav-narayanan-p-a8b0b1190/)
 
 <!---
 Bhargav-962/Bhargav-962 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
