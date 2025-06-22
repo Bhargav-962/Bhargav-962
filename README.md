@@ -2,7 +2,7 @@
 - 👀 I’m interested in OS, ML, Big Data 
 - 🌱 I’m currently persuing CSE
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me:
+- 📫 How to reach me:  
 [Email](mailto:bhargav.n962@gmail.com) |
 [Linkedin](https://www.linkedin.com/in/bhargav-narayanan-p-a8b0b1190/)
 
